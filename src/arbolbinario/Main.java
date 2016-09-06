@@ -135,6 +135,7 @@ public class Main {
         String dato;
         System.out.println("INGENIERA DE SOFTWARE");
         System.out.println("VERONICA SEMINARIO  ");
+        System.out.println("QUINTO SEMESTRE 'B'");
         System.out.println("INTEGRACION GITHUB Y TRAVIS");
         System.out.println("Insertando los valores: ");
         for (int i=1; i<=25; i++){
