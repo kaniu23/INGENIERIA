@@ -133,6 +133,7 @@ public class Main {
         Arbol arbol= new Arbol();
         int  valor1;
         String dato;
+        System.out.println("");
         System.out.println("Insertando los valores: ");
         for (int i=1; i<=25; i++){
          //dato =javax.swing.JOptionPane.showInputDialog("valor del árbol "+i+" ");
